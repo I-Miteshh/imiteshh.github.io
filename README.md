@@ -1,44 +1,39 @@
-# vCard - Personal portfolio
+# My GitHub Pages Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my GitHub Pages portfolio! This repository contains the projects and personal content I've been working on. It showcases my technical skills and various projects related to **Data Engineering**, **Web Development**, and **Cloud Technologies**.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Data Engineering**: Apache Spark, Apache Kafka, Apache Nifi, Apache Airflow
+- **Cloud**: Azure, JIRA, ServiceNow
+- **Storage & Database**: MySQL, Apache Hive, Data Lake
+- **Visualization**: Power BI, Tableau
 
-## Demo
+## Project Overview
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+This repository is a combination of:
+1. **Personal Portfolio**: A showcase of my technical journey, ongoing projects, and skills.
+2. **Project Documentation**: Details about my various data engineering and cloud-related projects.
+3. **Showcase Projects**: Real-world examples, including data pipelines, visualization tools, and cloud solutions.
 
-## Prerequisites
+## How to Run Locally
+To view this project locally, follow these steps:
 
-Before you begin, ensure you have met the following requirements:
+1. Clone the repository:
+   git clone https://github.com/I-Miteshh/imiteshh.github.io.git
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+2. Navigate into the project directory:
+   cd imiteshh.github.io
 
-## Installing vCard
+Open the index.html file in your preferred browser to view the portfolio.
 
-To install **vCard**, follow these steps:
+Features
+Responsive Design: The website is optimized for both desktop and mobile views.
+Real-time Data Insights: Some sections use data from real-time streams and visualization tools like Power BI and Tableau.
+Cloud-Integrated Solutions: Projects involving cloud platforms like Azure are demonstrated through various implementations.
+Contact
+Feel free to reach out if you have any questions or would like to discuss potential collaborations!
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+Email: shah.mitesh03099@gmail.com
+LinkedIn: linkedIn.com/imitesh99
+GitHub: I-Miteshh
